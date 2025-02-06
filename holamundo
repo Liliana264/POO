@@ -1,0 +1,62 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPSyHU+kKFbB7sJpboV2r6z",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Liliana264/POO/blob/main/holamundo\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "85KKQsDU072u",
+        "outputId": "92d7f3fa-aaf6-4d70-adf8-7fe0031b2c65"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hola mundo\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"Hola mundo\")"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Mi primer programa | Hecho por Itzel Rios Zavala 06/02/25"
+      ],
+      "metadata": {
+        "id": "PHfPNQFB08wc"
+      }
+    }
+  ]
+}
