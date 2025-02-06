@@ -1,0 +1,92 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyP3M6zEbgcZOSQ/eYt6h29z",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Liliana264/POO/blob/main/programa%202\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Programa |hecho por Itzel Rios Zavala | 06/02/25"
+      ],
+      "metadata": {
+        "id": "LCplctSA7U0z"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 3,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "-UF9oJIx3PIE",
+        "outputId": "6b23ec7b-b272-4ace-d76d-fc42c8644954"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hola itzel\n"
+          ]
+        }
+      ],
+      "source": [
+        "class Saludo:\n",
+        "  def __init__(self):\n",
+        "    self.nombre = \"itzel\"\n",
+        "  def hola(self):\n",
+        "    print(\"Hola\",self.nombre)\n",
+        "x=Saludo()\n",
+        "x.hola()"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x=Saludo()\n",
+        "x.hola()"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "_Dv0blCu7tTS",
+        "outputId": "5b3b7e6b-9246-4cb1-d667-ac93349ce9a1"
+      },
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hola itzel\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
